@@ -1,2 +1,2 @@
 # First-Parallax-Web
-Link: http://taotentien.rf.gd/?i=1
+Link: https://tienminh0218.github.io/First-Parallax-Web/
